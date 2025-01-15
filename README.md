@@ -40,7 +40,11 @@ Processes an image and returns the annotated version with detected objects.
 **Sample Request**
 
 ```bash
-curl --location 'http://127.0.0.1:5000/detect' --form 'image=@/file_location' --output _file_to_output_to_
+
+curl --location 'http://127.0.0.1:5000/detect'
+--form 'image=@/file_location' 
+--output _file_to_output_to_
+
 ```
 
 ### 2. Analysis
