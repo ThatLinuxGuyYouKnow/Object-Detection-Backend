@@ -7,6 +7,10 @@
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-7.0+-yellow.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+## First, Sample Results!x
+
+![detected image 1](rash_solved.jpg)
+
 A Flask-based backend service that provides object detection capabilities using YOLOv5 nano model, enhanced with Gemini AI for detailed scene analysis and reporting.
 
 ## Features
